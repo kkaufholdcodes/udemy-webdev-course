@@ -8,7 +8,7 @@
         <h3>Week 1 - Sections 3 & 4</h3>
         <ol>
             <li><a href="./week-1/Lists-Assignment.html">Lists Assignment</a></li>
-            <li><a href="./week-1/Lists-Assignment.html"></a>Recreate Webpage Asignment</li>
+            <li><a href="./week-1/Recreate-Webpage-Assignment.html">Recreate Webpage Assignment</a></li>
         </ol>
     </body>
 </html>
