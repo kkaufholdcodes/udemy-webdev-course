@@ -9,6 +9,7 @@
         <ol>
             <li><a href="./week-1/Lists-Assignment.html">Lists Assignment</a></li>
             <li><a href="./week-1/Recreate-Webpage-Assignment.html">Recreate Webpage Assignment</a></li>
+            <li><a href="./week-1/Pokemon-Exercise.html">Pokemon Exercise</a></li>
         </ol>
     </body>
 </html>
