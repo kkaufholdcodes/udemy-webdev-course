@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kim's Udemy Web Dev Course Portfolio</title>
+    </head>
+    <body>
+        <h1>Kim's Udemy Web Dev Course Portfolio</h1>
+        <h3>Week 1 - Sections 3 & 4</h3>
+        <ol>
+            <li><a href="./week-1/Lists-Assignment.html">Lists Assignment</a></li>
+            <li><a href="./week-1/Lists-Assignment.html"></a>Recreate Webpage Asignment</li>
+        </ol>
+    </body>
+</html>
