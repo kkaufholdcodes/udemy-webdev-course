@@ -1,0 +1,22 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container{
+    border: solid 20px #BDC3C7;
+    padding: 15px;
+    margin: 10%;
+}
+
+.date {
+    color: #3498db;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+p:first-of-type {
+    border-left: solid 4px #BDC3C7;
+    padding-left: 5px;
+}
