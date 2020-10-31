@@ -1,0 +1,1 @@
+document.getElementsByTagName("SPAN")[0].innerHTML = "Disgusting";
